@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Karada No Seishin
 tagline: Association "L'esprit du corps"
-featuredImage: /assets/fichier-1.png
+featuredImage: /assets/fichier-3.png
 cta:
   ctaText: En apprendre plus ...
   ctaLink: /about
