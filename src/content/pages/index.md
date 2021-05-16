@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: Karada No Seishin
 tagline: Graphic Designer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
