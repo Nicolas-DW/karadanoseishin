@@ -3,7 +3,7 @@
     "title": "Karada No Seishin",
     "titleTemplate": "%s",
     "description": "Le site de l'association L'esprit du corps. Karada No Seishin.",
-    "siteUrl": "karadanoseishin.fr",
+    "siteUrl": "karadanoseishin.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": ""
