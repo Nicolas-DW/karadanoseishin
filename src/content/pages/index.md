@@ -8,8 +8,4 @@ cta:
   ctaText: En apprendre plus ...
   ctaLink: /about
 ---
-l,cmlzekfze
-
-lmzkdmazkdmazkdmlazkdmalzkdmalzkdmlazd;
-
-lm;zD
+Nous sommes un petit groupe d'individus qui aimons bouger et apprendre à mieux utiliser son corps, tout en utilisant l'excuse de la confrontation pour élargir notre champ de perception de la notion de "fight or flight".
