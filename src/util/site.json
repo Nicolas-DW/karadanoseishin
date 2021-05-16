@@ -2,11 +2,11 @@
   "meta": {
     "title": "Karada No Seishin",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Le site de l'association L'esprit du corps. Karada No Seishin.",
     "siteUrl": "karadanoseishin.fr",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
