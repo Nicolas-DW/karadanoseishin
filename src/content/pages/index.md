@@ -5,7 +5,7 @@ title: Karada No Seishin
 tagline: Association "L'esprit du corps"
 featuredImage: /assets/1606485455530.jpeg
 cta:
-  ctaText: Know more
+  ctaText: En apprendre plus ...
   ctaLink: /about
 ---
 l,cmlzekfze
